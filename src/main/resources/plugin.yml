@@ -1,0 +1,7 @@
+main: me.pliexe.discordflow.DiscordFlow
+name: DiscordFlow
+version: 1.0
+author: Pliexe
+description: Create (Commands, Modals, Buttons, Select Menus) with Discord Flow that can be used with Discord Interactions or Minecraft Commands.
+
+softdepend: [DiscordSRV, PlaceholderAPI]
